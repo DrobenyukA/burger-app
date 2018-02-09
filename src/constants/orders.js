@@ -1,0 +1,7 @@
+export default {
+    ACTIONS: {
+        FETCH_START: 'FETCH_ORDERS_START',
+        FETCH_SUCCESS: 'FETCH_ORDERS_SUCCESS',
+        FETCH_FAIL: 'FETCH_ORDERS_FAIL'
+    }
+}

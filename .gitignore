@@ -1,0 +1,9 @@
+# IDE and text editors
+.vscode
+.idea
+
+# source folders
+/node_modules
+
+# private info
+/src/app.config.js

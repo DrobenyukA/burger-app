@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Logo /> Capturing Logo\`s snapshot 1`] = `
+<div
+  className={undefined}
+  style={
+    Object {
+      "height": "90",
+    }
+  }
+>
+  <img
+    alt="MyBurger"
+    src="burger-logo.png"
+  />
+</div>
+`;

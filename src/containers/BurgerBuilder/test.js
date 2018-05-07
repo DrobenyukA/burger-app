@@ -19,4 +19,5 @@ describe('<BurgerBuilder />', () => {
         wrapper.setProps({ings: {salad: 0}});
         expect(wrapper.find(BuildControls)).toHaveLength(1);
     });
+    
 });

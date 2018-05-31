@@ -1,3 +1,3 @@
-# Burger. Progressive Web App
+# Burger App.
 
-PWA for burger creating
+Simple react redux app
